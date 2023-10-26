@@ -33,7 +33,7 @@ print(round(d,2))
 
 
 ### OUTPUT:
-![output](DISTANCE.png)
+![output](Distance.png)
 
 
 ### RESULT:
