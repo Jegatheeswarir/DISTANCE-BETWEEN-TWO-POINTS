@@ -27,14 +27,12 @@ x_2=10
 y_2=6
 d=distance(x_1,y_1,x_2,y_2)
 print(round(d,2))
+
 ```
-
-  
-
 
 ### OUTPUT:
 ![output](Distance.png)
 
 
 ### RESULT:
-successfully completed 
+successfully completed.
